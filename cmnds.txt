@@ -1,0 +1,2 @@
+git init -> for creating the git of the current folder
+git status -> status of every file added or not
