@@ -5,5 +5,6 @@ int main() {
     int b=2;
     // this is line 2
     // added in branch
+    // add in master
     return 0;
 }
