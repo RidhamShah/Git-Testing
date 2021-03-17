@@ -10,6 +10,7 @@ int main() {
   void fun() {
     // master edited
     // edited
+    // new brnch
   }
   return 0;
 }
