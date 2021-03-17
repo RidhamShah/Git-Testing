@@ -1,2 +1,5 @@
-git init -> for creating the git of the current folder
-git status -> status of every file added or not
+git init => for creating the git of the current folder
+git status => status of every file added or not
+git add . => add every files
+git add {filename} => add specific file name
+git commit - m "msg" => commit with message
