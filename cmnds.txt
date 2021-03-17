@@ -8,3 +8,5 @@ git checkout {id} => all codes changed to that commit and head is changed
 git switch - => undo checkout
 git reser --hard {id} => all reset to this commit else deleted
 git checkout -- . => reset to last saved commit
+git branch => shows all branch
+git checkout -b {branchname} => creates new branch
