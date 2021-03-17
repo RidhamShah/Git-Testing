@@ -1,15 +1,15 @@
 int main() {
 
-    int a=1;
-    //this is line 1
-    int b=2;
-    // this is line 2
-    // added in branch
-    // add in master
+  int a = 1;
+  // this is line 1
+  int b = 2;
+  // this is line 2
+  // added in branch
+  // add in master
 
-    void fun()
-    {
-        //master edited
-    }
-    return 0;
+  void fun() {
+    // master edited
+    // edited
+  }
+  return 0;
 }
