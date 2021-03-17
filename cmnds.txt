@@ -11,3 +11,4 @@ git checkout -- . => reset to last saved commit
 git checkout -b {branchname} => creates new branch
 git checkout {branchname} => go to that branch
 git branch => shows all branch
+git rebase {other branchname} => merge till last common point
