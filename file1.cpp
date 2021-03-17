@@ -9,7 +9,7 @@ int main() {
 
     void fun()
     {
-        
+        //master edited
     }
     return 0;
 }
