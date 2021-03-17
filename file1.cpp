@@ -6,5 +6,10 @@ int main() {
     // this is line 2
     // added in branch
     // add in master
+
+    void fun()
+    {
+        
+    }
     return 0;
 }
